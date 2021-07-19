@@ -1,0 +1,186 @@
+
+Goals
+Transfer and Pay
+Schedule a Payment
+Friends/Contacts
+Transaction history
+Status
+Active Now
+Not Active
+Transaction Status
+Pending
+Completed
+Initiated
+Wallet
+Bank Name
+Card Number
+Routing Number(private database, not public to user)
+Active Card
+For users with multiple cards, there must be one that is active for transactions in the application
+Screen Layout
+Introduction Screen
+We want to detail the most important features to our user in this interface
+Transfer and Pay screen widget
+Scheduling a payment widget
+Calendar widget
+Seeing/viewing the calendar screen after pressing this button
+Transaction history widget
+Best Friends widget
+Friends list widget
+Wallet widget
+Pending transactions widget
+Transfer and Pay Screen
+Friends/Contacts widget available
+We want to give our users the ability to choose their friend/contact to pay
+Three Options
+Pay Now
+Choose a Card/Active Card is displayed first
+Choose amount
+Consent Link
+Pay Later
+Choose Date
+Choose a Card/Active Card is displayed first
+Set payment widget in Calendar? Option to the user
+Choose amount
+Consent Link
+Schedule a Payment
+Choose a Card/Active Card is displayed first
+Set payment widget in Calendar? Option to the user
+Choose amount
+Consent Link
+Calendar Screen
+Scheduling Payments can be listed here as widgets that take you to every pending transaction between users
+Widgets can give information about transaction pending and the users involved in each transaction
+This is where scheduling automated payments will be handled mostly on this graphical user interface
+Git history dedicated to information in this screen
+Git version control system to supplement this idea of a calendar screen
+This control system will allow us to supplement the data in the calendar
+Transaction History screen
+Every transaction is classified as either pending/completed/initiated/planned
+List of Latest Transactions using DBMS/LIMIT 10 for the data stored in our database
+We will need to store this database in a separate server than the Git Control System
+Friends screen
+List of Friends using DBMS/LIMIT 5 for the data stored in our database
+Contacts screen
+List of Contacts using DBMS/LIMIT 5 for the data stored in our database
+Transactions Screen
+List of transactions stored in a DBMS/Create a VIEW for this database/ DO NOT PROCESS THE ENTIRE DATABASE USING LIMIT/ WE WILL USE VIEWS
+Wallet Screen
+Cards to be used/Active/Not Active
+Bank Screen
+List of Banks and their Logos
+For every bank
+Username
+Password
+Consent link
+Searching for other banks
+Report System(Not for User Interface/Use Abstraction to offer user business insight based on data tracking and learning)
+This is a timely financial report that we offer to the user. We will offer a weekly/monthly/annual report to our user
+Spending Analysis using data engineering
+Machine Learning to offer business insight in the form of data visualizations like graphs and such
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Friends Screen
+
+
+Send and receive money securely
+
+Recipients search filter (implant a text box for searching and filtering contacts)
+
+All you need is an email address or mobile number.
+Add Recipient opens dialog
+
+Select to send money.
+
+Actions for Ananya NayakAnanya Nayak (317) 426-6248
+
+
+Actions for CarreonCarreon
+(626) 290-7520
+
+Actions for Cheer up foundationCheer up foundation
+(408) 888-2350
+
+Actions for ChristianChristian
+(951) 421-2706
+
+Actions for David CadenaDavid Cadena
+...7420 Email to Notify Recipient: d.cadena@gmail.com
+
+Actions for David ChenDavid Chen
+(310) 962-7358
+
+Actions for Deba MohapatraDeba Mohapatra
+(562) 746-5826
+
+
+
+
+
+
+
+Choose your bank
+Search for your bank
+
+CHASE
+
+
+BANK OF AMERICA
+
+
+WELLS FARGO
+
+
+PNC BANK
+
+
+U.S. BANK
+
+
+TD BANK
+
+
+USAA
+
+
+CITIBANK
+
+
+REGIONS BANK
+
+
+HUNTINGTON BANK (PERSONAL)
+
+
+NAVY FEDERAL CREDIT UNION
+Search for other banks
+Connect to Your Bank
+
